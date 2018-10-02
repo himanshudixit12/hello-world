@@ -1,4 +1,3 @@
 # hello-world
 Hello world, whatsup?
-creating me a first readme file
-hello this is Hemabh Kamboj
+this ishimanshu dixit,creating my first readme file...hoping to contribute more
